@@ -48,7 +48,7 @@ To execute this code we then run `rackup config.ru`. If everything goes as plann
 [2015-11-27 16:48:22] INFO  WEBrick::HTTPServer#start: pid=11275 port=9292
 ```
 
-Notice it says `port=9292`. If you open your browser and go to `http://localhost:9292/` you should see `Hello, World`. 
+Notice it says `port=9292`. If you open your browser and go to [http://localhost:9292/](http://localhost:9292/) you should see `Hello, World`. 
 
 >Note: If you're using the Learn IDE, you won't be able to get to your website with `localhost`. Instead, you'll see a line that looks something like this - `Starting server on 159.203.101.28:30001`. To see the webpage, just go to `159.203.101.28:30001` in your web browser. Anywhere these instructions tell you to go to `localhost`, replace that with this IP address instead!
 
